@@ -50,14 +50,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-<h2>┃ About</h2>
+## ┃ About
 
 <p align="justify">
-
-I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a strong interest in <b>Quality Assurance</b>, <b>Software Testing</b>, and <b>Automation Engineering</b>. I have experience developing automation tests using <b>Selenium</b>, <b>Katalon Studio</b>, and <b>Python</b>, while also exploring <b>Machine Learning</b>, <b>Data Analysis</b>, and <b>Geographic Information Systems (GIS)</b> through academic and personal projects. I am passionate about building reliable software and continuously expanding my technical skills through hands-on experience.
-
+  I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a strong interest in <b>Quality Assurance</b>, <b>Software Testing</b>, and <b>Automation Engineering</b>. I have experience developing automation tests using <b>Selenium</b>, <b>Katalon Studio</b>, and <b>Python</b>, while also exploring <b>Machine Learning</b>, <b>Data Analysis</b>, and <b>Geographic Information Systems (GIS)</b> through academic and personal projects. I am passionate about building reliable software and continuously expanding my technical skills through hands-on experience.
 </p>
-</div>
 
 > 🎓 **Information Systems Student** — Bakrie University  
 > 🧪 **Interested in** — Quality Assurance, Automation Testing, and Software Engineering  
@@ -68,11 +65,9 @@ I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a st
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-<h2>
-┃ Tech Stack
-</h2>
+## ┃ Tech Stack
 
-<h3>Programming Languages</h3>
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -90,8 +85,7 @@ I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a st
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-
-<h3>Quality Assurance</h3>
+### Quality Assurance
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -106,8 +100,7 @@ I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a st
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-
-<h3>Machine Learning & Data Science</h3>
+### Machine Learning & Data Science
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -123,8 +116,7 @@ I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a st
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-
-<h3>GIS & Remote Sensing</h3>
+### GIS & Remote Sensing
 
 <p>
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
@@ -136,8 +128,7 @@ I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a st
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-
-<h3>Tools & Frameworks</h3>
+### Tools & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -153,13 +144,14 @@ I am an <b>Information Systems</b> student at <b>Bakrie University</b> with a st
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+<!-- Elegant Gradient Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-<h2>┃ Featured Projects</h2>
+## ┃ Featured Projects
 
-<h3>SnapBoothStudio</h3>
+### SnapBoothStudio
 
 An online photo booth booking platform designed to simplify reservation management and enhance the customer booking experience. The application includes authentication, booking management, and an intuitive user interface.
 
@@ -169,7 +161,7 @@ An online photo booth booking platform designed to simplify reservation manageme
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-<h3>Jember Vegetation Mapping</h3>
+### Jember Vegetation Mapping
 
 A machine learning project for vegetation classification in Jember Regency using the Random Forest algorithm with Sentinel-2 imagery processed through Google Earth Engine.
 
@@ -179,23 +171,21 @@ A machine learning project for vegetation classification in Jember Regency using
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-<h3>Selenium Automation Testing</h3>
+### Selenium Automation Testing
 
 A collection of automated software testing scenarios covering functional, regression, and end-to-end testing using Selenium and Python.
 
-**Technologies:** Python • Selenium 
-
+**Technologies:** Python • Selenium
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0F172A,50:F59E0B,100:0F172A" width="100%"/>
 </p>
 
-<h3>Digital Economy Workflow</h3>
+### Digital Economy Workflow
 
 An automated workflow built with n8n to collect, process, and organize digital economy information by integrating AI services and external APIs.
 
 **Technologies:** n8n • Google Gemini • Tavily Search • Google Sheets
-
 
 <!-- Elegant Gradient Divider -->
 <p align="center">
