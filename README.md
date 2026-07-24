@@ -67,6 +67,8 @@
 
 ## ┃ Tech Stack
 
+<p align="center">
+
 **Languages**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> •
 <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white"/> •
@@ -75,12 +77,16 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> •
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
+<br>
+
 **Quality Assurance**  
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> •
 <img src="https://img.shields.io/badge/Katalon-00C65E?style=flat-square&logo=katalon&logoColor=white"/> •
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> •
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/> •
 <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+
+<br>
 
 **Machine Learning & Data Science**  
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> •
@@ -90,9 +96,13 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> •
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 
+<br>
+
 **GIS & Remote Sensing**  
 <img src="https://img.shields.io/badge/GEE-4285F4?style=flat-square&logo=googleearth&logoColor=white"/> •
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
+
+<br>
 
 **Tools & Frameworks**  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> •
@@ -102,6 +112,8 @@
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> •
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> •
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
+</p>
 
 ## ┃ Featured Projects
 
